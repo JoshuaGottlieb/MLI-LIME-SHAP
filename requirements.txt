@@ -1,0 +1,9 @@
+eli5==0.16.0
+lime==0.2.0.1
+matplotlib==3.10.6
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+seaborn==0.13.2
+shap==0.47.1
+xgboost==2.1.4
